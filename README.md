@@ -17,11 +17,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#171](https://github.com/Aggie-Web-Developers/awd-website/pull/171) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
-2. 💪 Opened PR [#171](https://github.com/Aggie-Web-Developers/awd-website/pull/171) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
-3. ❌ Closed PR [#170](https://github.com/Aggie-Web-Developers/awd-website/pull/170) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
-4. 💪 Opened PR [#170](https://github.com/Aggie-Web-Developers/awd-website/pull/170) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
-5. 🎉 Merged PR [#169](https://github.com/Aggie-Web-Developers/awd-website/pull/169) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
+1. 💪 Opened PR [#172](https://github.com/Aggie-Web-Developers/awd-website/pull/172) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
+2. ❌ Closed PR [#171](https://github.com/Aggie-Web-Developers/awd-website/pull/171) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
+3. 💪 Opened PR [#171](https://github.com/Aggie-Web-Developers/awd-website/pull/171) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
+4. ❌ Closed PR [#170](https://github.com/Aggie-Web-Developers/awd-website/pull/170) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
+5. 💪 Opened PR [#170](https://github.com/Aggie-Web-Developers/awd-website/pull/170) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
 <!--END_SECTION:activity-->
 
 ---
