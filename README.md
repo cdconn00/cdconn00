@@ -18,10 +18,10 @@
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#69](https://github.com/mikeyroush/FLASH/issues/69) in [mikeyroush/FLASH](https://github.com/mikeyroush/FLASH)
-2. 💪 Opened PR [#69](https://github.com/mikeyroush/FLASH/pull/69) in [mikeyroush/FLASH](https://github.com/mikeyroush/FLASH)
-3. 🗣 Commented on [#38](https://github.com/mikeyroush/FLASH/issues/38) in [mikeyroush/FLASH](https://github.com/mikeyroush/FLASH)
+2. 🗣 Commented on [#69](https://github.com/mikeyroush/FLASH/issues/69) in [mikeyroush/FLASH](https://github.com/mikeyroush/FLASH)
+3. 💪 Opened PR [#69](https://github.com/mikeyroush/FLASH/pull/69) in [mikeyroush/FLASH](https://github.com/mikeyroush/FLASH)
 4. 🗣 Commented on [#38](https://github.com/mikeyroush/FLASH/issues/38) in [mikeyroush/FLASH](https://github.com/mikeyroush/FLASH)
-5. 🗣 Commented on [#39](https://github.com/mikeyroush/FLASH/issues/39) in [mikeyroush/FLASH](https://github.com/mikeyroush/FLASH)
+5. 🗣 Commented on [#38](https://github.com/mikeyroush/FLASH/issues/38) in [mikeyroush/FLASH](https://github.com/mikeyroush/FLASH)
 <!--END_SECTION:activity-->
 
 ---
