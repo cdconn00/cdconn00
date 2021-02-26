@@ -17,11 +17,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#39](https://github.com/mikeyroush/FLASH/issues/39) in [mikeyroush/FLASH](https://github.com/mikeyroush/FLASH)
-2. 🎉 Merged PR [#198](https://github.com/Aggie-Web-Developers/awd-website/pull/198) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
-3. 💪 Opened PR [#198](https://github.com/Aggie-Web-Developers/awd-website/pull/198) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
-4. 💪 Opened PR [#41](https://github.com/mikeyroush/FLASH/pull/41) in [mikeyroush/FLASH](https://github.com/mikeyroush/FLASH)
-5. ❗️ Opened issue [#197](https://github.com/Aggie-Web-Developers/awd-website/issues/197) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
+1. 🗣 Commented on [#38](https://github.com/mikeyroush/FLASH/issues/38) in [mikeyroush/FLASH](https://github.com/mikeyroush/FLASH)
+2. 🗣 Commented on [#39](https://github.com/mikeyroush/FLASH/issues/39) in [mikeyroush/FLASH](https://github.com/mikeyroush/FLASH)
+3. 🎉 Merged PR [#198](https://github.com/Aggie-Web-Developers/awd-website/pull/198) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
+4. 💪 Opened PR [#198](https://github.com/Aggie-Web-Developers/awd-website/pull/198) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
+5. 💪 Opened PR [#41](https://github.com/mikeyroush/FLASH/pull/41) in [mikeyroush/FLASH](https://github.com/mikeyroush/FLASH)
 <!--END_SECTION:activity-->
 
 ---
