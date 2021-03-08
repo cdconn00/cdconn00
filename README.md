@@ -17,11 +17,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#69](https://github.com/mikeyroush/FLASH/issues/69) in [mikeyroush/FLASH](https://github.com/mikeyroush/FLASH)
-2. 🗣 Commented on [#69](https://github.com/mikeyroush/FLASH/issues/69) in [mikeyroush/FLASH](https://github.com/mikeyroush/FLASH)
+1. 🎉 Merged PR [#199](https://github.com/Aggie-Web-Developers/awd-website/pull/199) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
+2. 💪 Opened PR [#199](https://github.com/Aggie-Web-Developers/awd-website/pull/199) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
 3. 🗣 Commented on [#69](https://github.com/mikeyroush/FLASH/issues/69) in [mikeyroush/FLASH](https://github.com/mikeyroush/FLASH)
 4. 🗣 Commented on [#69](https://github.com/mikeyroush/FLASH/issues/69) in [mikeyroush/FLASH](https://github.com/mikeyroush/FLASH)
-5. 💪 Opened PR [#69](https://github.com/mikeyroush/FLASH/pull/69) in [mikeyroush/FLASH](https://github.com/mikeyroush/FLASH)
+5. 🗣 Commented on [#69](https://github.com/mikeyroush/FLASH/issues/69) in [mikeyroush/FLASH](https://github.com/mikeyroush/FLASH)
 <!--END_SECTION:activity-->
 
 ---
