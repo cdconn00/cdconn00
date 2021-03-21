@@ -17,11 +17,11 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#87](https://github.com/git-flash/FLASH/issues/87) in [git-flash/FLASH](https://github.com/git-flash/FLASH)
-2. 🗣 Commented on [#21](https://github.com/git-flash/FLASH/issues/21) in [git-flash/FLASH](https://github.com/git-flash/FLASH)
-3. 💪 Opened PR [#87](https://github.com/git-flash/FLASH/pull/87) in [git-flash/FLASH](https://github.com/git-flash/FLASH)
-4. 🎉 Merged PR [#199](https://github.com/Aggie-Web-Developers/awd-website/pull/199) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
-5. 💪 Opened PR [#199](https://github.com/Aggie-Web-Developers/awd-website/pull/199) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
+1. ❗️ Closed issue [#72](https://github.com/git-flash/FLASH/issues/72) in [git-flash/FLASH](https://github.com/git-flash/FLASH)
+2. ❗️ Closed issue [#21](https://github.com/git-flash/FLASH/issues/21) in [git-flash/FLASH](https://github.com/git-flash/FLASH)
+3. 🗣 Commented on [#87](https://github.com/git-flash/FLASH/issues/87) in [git-flash/FLASH](https://github.com/git-flash/FLASH)
+4. 🗣 Commented on [#21](https://github.com/git-flash/FLASH/issues/21) in [git-flash/FLASH](https://github.com/git-flash/FLASH)
+5. 💪 Opened PR [#87](https://github.com/git-flash/FLASH/pull/87) in [git-flash/FLASH](https://github.com/git-flash/FLASH)
 <!--END_SECTION:activity-->
 
 ---
