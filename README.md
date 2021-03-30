@@ -17,11 +17,11 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#200](https://github.com/Aggie-Web-Developers/awd-website/pull/200) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
-2. 💪 Opened PR [#200](https://github.com/Aggie-Web-Developers/awd-website/pull/200) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
-3. 💪 Opened PR [#97](https://github.com/git-flash/FLASH/pull/97) in [git-flash/FLASH](https://github.com/git-flash/FLASH)
-4. 💪 Opened PR [#96](https://github.com/git-flash/FLASH/pull/96) in [git-flash/FLASH](https://github.com/git-flash/FLASH)
-5. ❗️ Closed issue [#72](https://github.com/git-flash/FLASH/issues/72) in [git-flash/FLASH](https://github.com/git-flash/FLASH)
+1. 🎉 Merged PR [#201](https://github.com/Aggie-Web-Developers/awd-website/pull/201) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
+2. 💪 Opened PR [#201](https://github.com/Aggie-Web-Developers/awd-website/pull/201) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
+3. ❌ Closed PR [#200](https://github.com/Aggie-Web-Developers/awd-website/pull/200) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
+4. 💪 Opened PR [#200](https://github.com/Aggie-Web-Developers/awd-website/pull/200) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
+5. 💪 Opened PR [#97](https://github.com/git-flash/FLASH/pull/97) in [git-flash/FLASH](https://github.com/git-flash/FLASH)
 <!--END_SECTION:activity-->
 
 ---
