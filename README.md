@@ -23,11 +23,3 @@
 4. ❗️ Opened issue [#216](https://github.com/Aggie-Web-Developers/awd-website/issues/216) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
 5. 🗣 Commented on [#147](https://github.com/Aggie-Web-Developers/awd-website/issues/147) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
 <!--END_SECTION:activity-->
-
----
-
-### My GitHub Statistics 📈
-
-<img alt="Cole's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cdconn00&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" />
-
----
