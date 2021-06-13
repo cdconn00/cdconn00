@@ -5,10 +5,10 @@
 
 ## I'm a passionate web developer, teaching everything I know!
 
-- 🖥️ Junior Computer Science Student at Texas A&M
-- ⚡ President and Co-Founder at [Aggie Web Developers](https://www.aggiedevelopers.com)
+- 🖥️ Senior Computer Science Student at Texas A&M
+- ⚡ Vice-President and Co-Founder at [Aggie Web Developers](https://www.aggiedevelopers.com)
 - 💙 Teaching Others About the Need for Social Good in the Tech Industry
-- 🚀 Helping People Get Started with Web Development
+- 🚀 Building The Next Generation of Leaders in Tech
 - 🌐 He/Him/His
 
 ---
