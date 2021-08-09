@@ -18,9 +18,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#58](https://github.com/cdconn00/portfolio-site/pull/58) in [cdconn00/portfolio-site](https://github.com/cdconn00/portfolio-site)
-2. 💪 Opened PR [#58](https://github.com/cdconn00/portfolio-site/pull/58) in [cdconn00/portfolio-site](https://github.com/cdconn00/portfolio-site)
-3. ❗️ Closed issue [#184](https://github.com/Aggie-Web-Developers/awd-website/issues/184) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
-4. 🎉 Merged PR [#253](https://github.com/Aggie-Web-Developers/awd-website/pull/253) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
-5. 💪 Opened PR [#253](https://github.com/Aggie-Web-Developers/awd-website/pull/253) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
+1. 🎉 Merged PR [#60](https://github.com/cdconn00/portfolio-site/pull/60) in [cdconn00/portfolio-site](https://github.com/cdconn00/portfolio-site)
+2. 💪 Opened PR [#60](https://github.com/cdconn00/portfolio-site/pull/60) in [cdconn00/portfolio-site](https://github.com/cdconn00/portfolio-site)
+3. 🎉 Merged PR [#59](https://github.com/cdconn00/portfolio-site/pull/59) in [cdconn00/portfolio-site](https://github.com/cdconn00/portfolio-site)
+4. 💪 Opened PR [#59](https://github.com/cdconn00/portfolio-site/pull/59) in [cdconn00/portfolio-site](https://github.com/cdconn00/portfolio-site)
+5. 🎉 Merged PR [#58](https://github.com/cdconn00/portfolio-site/pull/58) in [cdconn00/portfolio-site](https://github.com/cdconn00/portfolio-site)
 <!--END_SECTION:activity-->
