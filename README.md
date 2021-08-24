@@ -18,9 +18,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#49](https://github.com/Aggie-Web-Developers/awd-project-sama/issues/49) in [Aggie-Web-Developers/awd-project-sama](https://github.com/Aggie-Web-Developers/awd-project-sama)
-2. 💪 Opened PR [#46](https://github.com/Aggie-Web-Developers/awd-project-sama/pull/46) in [Aggie-Web-Developers/awd-project-sama](https://github.com/Aggie-Web-Developers/awd-project-sama)
-3. 💪 Opened PR [#45](https://github.com/Aggie-Web-Developers/awd-project-sama/pull/45) in [Aggie-Web-Developers/awd-project-sama](https://github.com/Aggie-Web-Developers/awd-project-sama)
-4. 🎉 Merged PR [#60](https://github.com/cdconn00/portfolio-site/pull/60) in [cdconn00/portfolio-site](https://github.com/cdconn00/portfolio-site)
-5. 💪 Opened PR [#60](https://github.com/cdconn00/portfolio-site/pull/60) in [cdconn00/portfolio-site](https://github.com/cdconn00/portfolio-site)
+1. 💪 Opened PR [#53](https://github.com/Aggie-Web-Developers/awd-project-sama/pull/53) in [Aggie-Web-Developers/awd-project-sama](https://github.com/Aggie-Web-Developers/awd-project-sama)
+2. 🗣 Commented on [#49](https://github.com/Aggie-Web-Developers/awd-project-sama/issues/49) in [Aggie-Web-Developers/awd-project-sama](https://github.com/Aggie-Web-Developers/awd-project-sama)
+3. 💪 Opened PR [#46](https://github.com/Aggie-Web-Developers/awd-project-sama/pull/46) in [Aggie-Web-Developers/awd-project-sama](https://github.com/Aggie-Web-Developers/awd-project-sama)
+4. 💪 Opened PR [#45](https://github.com/Aggie-Web-Developers/awd-project-sama/pull/45) in [Aggie-Web-Developers/awd-project-sama](https://github.com/Aggie-Web-Developers/awd-project-sama)
+5. 🎉 Merged PR [#60](https://github.com/cdconn00/portfolio-site/pull/60) in [cdconn00/portfolio-site](https://github.com/cdconn00/portfolio-site)
 <!--END_SECTION:activity-->
