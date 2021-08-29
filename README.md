@@ -18,9 +18,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#47](https://github.com/Aggie-Web-Developers/awd-project-sama/issues/47) in [Aggie-Web-Developers/awd-project-sama](https://github.com/Aggie-Web-Developers/awd-project-sama)
-2. ❗️ Closed issue [#48](https://github.com/Aggie-Web-Developers/awd-project-sama/issues/48) in [Aggie-Web-Developers/awd-project-sama](https://github.com/Aggie-Web-Developers/awd-project-sama)
-3. ❗️ Closed issue [#11](https://github.com/Aggie-Web-Developers/awd-project-sama/issues/11) in [Aggie-Web-Developers/awd-project-sama](https://github.com/Aggie-Web-Developers/awd-project-sama)
-4. 💪 Opened PR [#57](https://github.com/Aggie-Web-Developers/awd-project-sama/pull/57) in [Aggie-Web-Developers/awd-project-sama](https://github.com/Aggie-Web-Developers/awd-project-sama)
-5. 💪 Opened PR [#56](https://github.com/Aggie-Web-Developers/awd-project-sama/pull/56) in [Aggie-Web-Developers/awd-project-sama](https://github.com/Aggie-Web-Developers/awd-project-sama)
+1. 💪 Opened PR [#58](https://github.com/Aggie-Web-Developers/awd-project-sama/pull/58) in [Aggie-Web-Developers/awd-project-sama](https://github.com/Aggie-Web-Developers/awd-project-sama)
+2. ❗️ Closed issue [#47](https://github.com/Aggie-Web-Developers/awd-project-sama/issues/47) in [Aggie-Web-Developers/awd-project-sama](https://github.com/Aggie-Web-Developers/awd-project-sama)
+3. ❗️ Closed issue [#48](https://github.com/Aggie-Web-Developers/awd-project-sama/issues/48) in [Aggie-Web-Developers/awd-project-sama](https://github.com/Aggie-Web-Developers/awd-project-sama)
+4. ❗️ Closed issue [#11](https://github.com/Aggie-Web-Developers/awd-project-sama/issues/11) in [Aggie-Web-Developers/awd-project-sama](https://github.com/Aggie-Web-Developers/awd-project-sama)
+5. 💪 Opened PR [#57](https://github.com/Aggie-Web-Developers/awd-project-sama/pull/57) in [Aggie-Web-Developers/awd-project-sama](https://github.com/Aggie-Web-Developers/awd-project-sama)
 <!--END_SECTION:activity-->
