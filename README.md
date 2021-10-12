@@ -18,9 +18,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Closed issue [#37](https://github.com/Aggie-Web-Developers/awd-project-sama/issues/37) in [Aggie-Web-Developers/awd-project-sama](https://github.com/Aggie-Web-Developers/awd-project-sama)
-2. ❗️ Closed issue [#49](https://github.com/Aggie-Web-Developers/awd-project-sama/issues/49) in [Aggie-Web-Developers/awd-project-sama](https://github.com/Aggie-Web-Developers/awd-project-sama)
-3. ❗️ Closed issue [#51](https://github.com/Aggie-Web-Developers/awd-project-sama/issues/51) in [Aggie-Web-Developers/awd-project-sama](https://github.com/Aggie-Web-Developers/awd-project-sama)
-4. ❗️ Closed issue [#60](https://github.com/Aggie-Web-Developers/awd-project-sama/issues/60) in [Aggie-Web-Developers/awd-project-sama](https://github.com/Aggie-Web-Developers/awd-project-sama)
-5. 🎉 Merged PR [#67](https://github.com/Aggie-Web-Developers/awd-project-sama/pull/67) in [Aggie-Web-Developers/awd-project-sama](https://github.com/Aggie-Web-Developers/awd-project-sama)
+1. 🎉 Merged PR [#62](https://github.com/cdconn00/portfolio-site/pull/62) in [cdconn00/portfolio-site](https://github.com/cdconn00/portfolio-site)
+2. 💪 Opened PR [#62](https://github.com/cdconn00/portfolio-site/pull/62) in [cdconn00/portfolio-site](https://github.com/cdconn00/portfolio-site)
+3. 🎉 Merged PR [#61](https://github.com/cdconn00/portfolio-site/pull/61) in [cdconn00/portfolio-site](https://github.com/cdconn00/portfolio-site)
+4. 💪 Opened PR [#61](https://github.com/cdconn00/portfolio-site/pull/61) in [cdconn00/portfolio-site](https://github.com/cdconn00/portfolio-site)
+5. ❗️ Closed issue [#37](https://github.com/Aggie-Web-Developers/awd-project-sama/issues/37) in [Aggie-Web-Developers/awd-project-sama](https://github.com/Aggie-Web-Developers/awd-project-sama)
 <!--END_SECTION:activity-->
