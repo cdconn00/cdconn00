@@ -18,9 +18,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#11](https://github.com/BRL-CAD/brlcad/issues/11) in [BRL-CAD/brlcad](https://github.com/BRL-CAD/brlcad)
-2. 💪 Opened PR [#16](https://github.com/treydinges/brlcad/pull/16) in [treydinges/brlcad](https://github.com/treydinges/brlcad)
-3. 💪 Opened PR [#15](https://github.com/treydinges/brlcad/pull/15) in [treydinges/brlcad](https://github.com/treydinges/brlcad)
-4. 🎉 Merged PR [#62](https://github.com/cdconn00/portfolio-site/pull/62) in [cdconn00/portfolio-site](https://github.com/cdconn00/portfolio-site)
-5. 💪 Opened PR [#62](https://github.com/cdconn00/portfolio-site/pull/62) in [cdconn00/portfolio-site](https://github.com/cdconn00/portfolio-site)
+1. ❗️ Opened issue [#2](https://github.com/cdconn00/personal-finance-project/issues/2) in [cdconn00/personal-finance-project](https://github.com/cdconn00/personal-finance-project)
+2. ❗️ Closed issue [#1](https://github.com/cdconn00/personal-finance-project/issues/1) in [cdconn00/personal-finance-project](https://github.com/cdconn00/personal-finance-project)
+3. ❗️ Opened issue [#1](https://github.com/cdconn00/personal-finance-project/issues/1) in [cdconn00/personal-finance-project](https://github.com/cdconn00/personal-finance-project)
+4. 🗣 Commented on [#11](https://github.com/BRL-CAD/brlcad/issues/11) in [BRL-CAD/brlcad](https://github.com/BRL-CAD/brlcad)
+5. 💪 Opened PR [#16](https://github.com/treydinges/brlcad/pull/16) in [treydinges/brlcad](https://github.com/treydinges/brlcad)
 <!--END_SECTION:activity-->
