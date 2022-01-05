@@ -18,9 +18,9 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#2](https://github.com/cdconn00/personal-finance-project/issues/2) in [cdconn00/personal-finance-project](https://github.com/cdconn00/personal-finance-project)
-2. ❗️ Closed issue [#1](https://github.com/cdconn00/personal-finance-project/issues/1) in [cdconn00/personal-finance-project](https://github.com/cdconn00/personal-finance-project)
-3. ❗️ Opened issue [#1](https://github.com/cdconn00/personal-finance-project/issues/1) in [cdconn00/personal-finance-project](https://github.com/cdconn00/personal-finance-project)
-4. 🗣 Commented on [#11](https://github.com/BRL-CAD/brlcad/issues/11) in [BRL-CAD/brlcad](https://github.com/BRL-CAD/brlcad)
-5. 💪 Opened PR [#16](https://github.com/treydinges/brlcad/pull/16) in [treydinges/brlcad](https://github.com/treydinges/brlcad)
+1. 🎉 Merged PR [#266](https://github.com/Aggie-Web-Developers/awd-website/pull/266) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
+2. 💪 Opened PR [#266](https://github.com/Aggie-Web-Developers/awd-website/pull/266) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
+3. 🎉 Merged PR [#265](https://github.com/Aggie-Web-Developers/awd-website/pull/265) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
+4. ❗️ Opened issue [#2](https://github.com/cdconn00/personal-finance-project/issues/2) in [cdconn00/personal-finance-project](https://github.com/cdconn00/personal-finance-project)
+5. ❗️ Closed issue [#1](https://github.com/cdconn00/personal-finance-project/issues/1) in [cdconn00/personal-finance-project](https://github.com/cdconn00/personal-finance-project)
 <!--END_SECTION:activity-->
