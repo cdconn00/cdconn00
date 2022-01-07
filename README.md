@@ -18,9 +18,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/cdconn00/personal-finance-project/pull/3) in [cdconn00/personal-finance-project](https://github.com/cdconn00/personal-finance-project)
-2. 💪 Opened PR [#3](https://github.com/cdconn00/personal-finance-project/pull/3) in [cdconn00/personal-finance-project](https://github.com/cdconn00/personal-finance-project)
-3. 🎉 Merged PR [#266](https://github.com/Aggie-Web-Developers/awd-website/pull/266) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
-4. 💪 Opened PR [#266](https://github.com/Aggie-Web-Developers/awd-website/pull/266) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
-5. 🎉 Merged PR [#265](https://github.com/Aggie-Web-Developers/awd-website/pull/265) in [Aggie-Web-Developers/awd-website](https://github.com/Aggie-Web-Developers/awd-website)
+1. 🎉 Merged PR [#6](https://github.com/cdconn00/personal-finance-project/pull/6) in [cdconn00/personal-finance-project](https://github.com/cdconn00/personal-finance-project)
+2. 💪 Opened PR [#6](https://github.com/cdconn00/personal-finance-project/pull/6) in [cdconn00/personal-finance-project](https://github.com/cdconn00/personal-finance-project)
+3. 🎉 Merged PR [#5](https://github.com/cdconn00/personal-finance-project/pull/5) in [cdconn00/personal-finance-project](https://github.com/cdconn00/personal-finance-project)
+4. 💪 Opened PR [#5](https://github.com/cdconn00/personal-finance-project/pull/5) in [cdconn00/personal-finance-project](https://github.com/cdconn00/personal-finance-project)
+5. 🎉 Merged PR [#4](https://github.com/cdconn00/personal-finance-project/pull/4) in [cdconn00/personal-finance-project](https://github.com/cdconn00/personal-finance-project)
 <!--END_SECTION:activity-->
