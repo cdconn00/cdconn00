@@ -18,9 +18,9 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#6](https://github.com/cdconn00/personal-finance-project/pull/6) in [cdconn00/personal-finance-project](https://github.com/cdconn00/personal-finance-project)
-2. 💪 Opened PR [#6](https://github.com/cdconn00/personal-finance-project/pull/6) in [cdconn00/personal-finance-project](https://github.com/cdconn00/personal-finance-project)
-3. 🎉 Merged PR [#5](https://github.com/cdconn00/personal-finance-project/pull/5) in [cdconn00/personal-finance-project](https://github.com/cdconn00/personal-finance-project)
-4. 💪 Opened PR [#5](https://github.com/cdconn00/personal-finance-project/pull/5) in [cdconn00/personal-finance-project](https://github.com/cdconn00/personal-finance-project)
-5. 🎉 Merged PR [#4](https://github.com/cdconn00/personal-finance-project/pull/4) in [cdconn00/personal-finance-project](https://github.com/cdconn00/personal-finance-project)
+1. 🎉 Merged PR [#7](https://github.com/cdconn00/personal-finance-project/pull/7) in [cdconn00/personal-finance-project](https://github.com/cdconn00/personal-finance-project)
+2. 💪 Opened PR [#7](https://github.com/cdconn00/personal-finance-project/pull/7) in [cdconn00/personal-finance-project](https://github.com/cdconn00/personal-finance-project)
+3. 🎉 Merged PR [#6](https://github.com/cdconn00/personal-finance-project/pull/6) in [cdconn00/personal-finance-project](https://github.com/cdconn00/personal-finance-project)
+4. 💪 Opened PR [#6](https://github.com/cdconn00/personal-finance-project/pull/6) in [cdconn00/personal-finance-project](https://github.com/cdconn00/personal-finance-project)
+5. 🎉 Merged PR [#5](https://github.com/cdconn00/personal-finance-project/pull/5) in [cdconn00/personal-finance-project](https://github.com/cdconn00/personal-finance-project)
 <!--END_SECTION:activity-->
