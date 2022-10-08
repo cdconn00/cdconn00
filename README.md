@@ -3,7 +3,7 @@
 
 ## I'm a passionate software engineer!
 
-- 🖥️ Co-Founder and App Dev at Tack Systems LLC
+- 🖥️ SWE 2 @ Spreetail 
 - 🏳️‍🌈 Pansexual Software Engineer
 - ⚡ Previous Co-Founder of Aggie Web Developers
 - 🌐 He/Him/His
