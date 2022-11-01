@@ -3,7 +3,7 @@
 
 ## I'm a passionate software engineer!
 
-- 🖥️ SWE 2 @ Spreetail 
+- 🖥️ Actively Seeking SWE, PM, Sales Engineer ROles
 - 🏳️‍🌈 Pansexual Software Engineer
 - ⚡ Previous Co-Founder of Aggie Web Developers
 - 🌐 He/Him/His
